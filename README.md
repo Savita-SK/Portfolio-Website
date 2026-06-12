@@ -19,3 +19,8 @@ In addition to projects, the portfolio includes sections for education, internsh
 The portfolio is built with modern web technologies and includes features such as dark/light mode, smooth animations, responsive design, and an admin dashboard for content management. Its goal is to create a professional online presence while demonstrating my abilities as an aspiring Full Stack Developer and Software Engineer. 🚀
 
 #output
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c5bf1383-1e12-48c2-ab49-08c886a4b9db" />
+
+<img width="1903" height="955" alt="Image" src="https://github.com/user-attachments/assets/da68e05a-219f-4e44-a4cc-5f97184f1f30" />
+
+<img width="1900" height="967" alt="Image" src="https://github.com/user-attachments/assets/67ed4392-b0e3-465d-8459-b5f776a2a52e" />
